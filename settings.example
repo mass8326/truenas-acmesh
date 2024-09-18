@@ -1,0 +1,10 @@
+# This is an example settings file for
+# "https://github.com/acmesh-official/acme.sh/tree/master/dnsapi/dns_namecheap"
+#
+# Your actual file should be named "settings.local"
+
+export TRUENAS_DNSPROVIDER=dns_namecheap
+
+export NAMECHEAP_API_KEY=eLSybuXXXXXXXXXXXXXXXXXXXX
+export NAMECHEAP_USERNAME=myusername
+export NAMECHEAP_SOURCEIP=999.999.999.999
